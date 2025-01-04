@@ -1,2 +1,2 @@
 # ML_stuff
-Repo for ML models 
+Repo for storing different ML techniques and models
